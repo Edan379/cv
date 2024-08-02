@@ -1,0 +1,75 @@
+/*généralités*/
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image:url(https://cdn02.plentymarkets.com/2brofzsczyt8/item/images/63205349/middle/Tapete-Vlies-297774-Arabeske-greige-weiss-63205349.jpg) ;
+}
+
+h2{
+    font-style: italic;
+}
+
+/*header*************************************************************************/
+header {
+    background-color: cornflowerblue;
+}
+
+img{
+    box-shadow: -50px -50px 80px 80px rgba(15, 207, 134, 0.5);
+}
+
+h1 {
+    color: azure;
+}
+
+.about-me,h1{
+    text-align: center;
+}
+
+.about-me{
+    font-size: 18px;
+    opacity: 0.5;
+    border: 3px;
+}
+
+.title {
+    font-weight:bold ;
+}
+
+/*main*******************************************************************************/
+
+
+/*déposséder les ul de puce*/
+ul {
+    list-style-type: none;
+}
+
+/*changer la couleur des éléments de ul1 et ul2*/
+.ul1 {
+    color: rgb(32, 184, 184);
+}
+
+.ul2 {
+    color:#689bca;
+}
+
+/*footer*******************************************************************************/
+/*centré copyright*/
+footer>h6 {
+    text-align: center;
+}
+
+/*couleur de twitter linked et github*/
+.colorT {
+    color: #1d9bf0 ;
+}
+.colorL {
+    color:#0a66c2 ;
+}
+.colorG {
+    color:#24292f ;
+}
+
+/*en le trait sous les liens de twitter, Linked et github*/
+a {
+    text-decoration: none;
+}
